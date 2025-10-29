@@ -26,26 +26,7 @@ JavaScript (Vanilla JS) – Functionality and interactivity
 
 💡 How to Use
 
-Clone this repository:
-
-git clone 
-
-
-Open the project folder.
-
-Run index.html in your browser.
-
-Start adding your daily goals and track your progress! 🌟
-
-✨ Future Improvements
-
-Add user authentication (login/logout)
-
-Include progress graphs and history
-
-Dark/light theme toggle
-
-📸 Preview
+CLICK HERE https://tamshina.github.io/my-progress-tracker/
 
 (You can add a screenshot or short GIF of your website here later.)
 
